@@ -1,0 +1,60 @@
+{
+    "characters": [
+        {
+            "character_name": "祢豆子（鬼灭之刃）",
+            "character_pic": "https://c-ssl.duitang.com/uploads/item/201912/20/20191220211125_plgcz.jpg",
+            "other_name": "Nezuko Kamado",
+            "character_id": 1001,
+            "id": 1
+        },
+        {
+            "character_name": "血小板（工作细胞）",
+            "character_pic": "https://ts1.tc.mm.bing.net/th/id/R-C.b69f998bf8b3d7cb967787763bc7c3ac?rik=86mP2gB6WjDIHg&riu=http%3a%2f%2fn.sinaimg.cn%2fsinacn10101%2f737%2fw640h897%2f20190814%2ff438-icapxpi2689442.jpg&ehk=d7b3Iklzlg6DRyeJ8R8mcvE1JSI9XfSnAgqVNvR5GuY%3d&risl=&pid=ImgRaw&r=0",
+            "other_name": "Platelet",
+            "character_id": 1002,
+            "id": 2
+        },
+        {
+            "character_name": "岩户铃芽（铃芽之旅）",
+            "character_pic": "https://i0.hdslb.com/bfs/new_dyn/88f95d9e6fee56a5e365c68e949d2aed436711776.jpg",
+            "other_name": "Suzume",
+            "character_id": 1003,
+            "id": 3
+        },
+        {
+            "character_name": "绫波丽（新世纪福音战士）",
+            "character_pic": "https://p5.toutiaoimg.com/origin/pgc-image/2aacdb66f77646b9ba1faacbcb852efd",
+            "other_name": "Ayanami Rei",
+            "character_id": 1004,
+            "id": 4
+        },
+        {
+            "character_name": "木之本樱（魔卡少女樱）",
+            "character_pic": "https://c-ssl.duitang.com/uploads/blog/202108/28/20210828202226_d5ff1.jpg",
+            "other_name": "Sakura Kinomoto",
+            "character_id": 1005,
+            "id": 5
+        },
+        {
+            "character_name": "宫水三叶（你的名字）",
+            "character_pic": "https://c-ssl.duitang.com/uploads/item/202010/23/20201023104312_etcet.jpg",
+            "other_name": "Miyamizu Mitsuha",
+            "character_id": 1006,
+            "id": 6
+        },
+        {
+            "character_name": "凯尔希（明日方舟）",
+            "character_pic": "https://c-ssl.duitang.com/uploads/blog/202205/20/20220520021725_520e7.jpg",
+            "other_name": "Kal'tsit",
+            "character_id": 1007,
+            "id": 7
+        },
+        {
+            "character_name": "阿尔托莉雅·潘德拉贡（Fate）",
+            "character_pic": "hhttps://i.bobopic.com/small/112095038.jpg",
+            "other_name": "Artoria Pendragon（Saber）",
+            "character_id": 1008,
+            "id": 8
+        }
+    ]
+}
